@@ -1,4 +1,4 @@
-# max_crypt
+# lab6
 
 A new Flutter application.
 
